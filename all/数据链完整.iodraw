@@ -136,8 +136,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YKIoO4m59bYCjiOHA-GD-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-20" width="270" height="90" as="geometry" />
+        <mxCell id="YKIoO4m59bYCjiOHA-GD-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-20" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
