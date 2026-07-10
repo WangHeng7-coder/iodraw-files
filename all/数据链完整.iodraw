@@ -24,8 +24,8 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-36" value="自适应编码推流" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="160" y="642" width="570" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-37" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=center;fontSize=30;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="160" y="352" width="350" height="270" as="geometry" />
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-37" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;align=center;fontSize=30;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="160" y="352" width="350" height="178" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XnWyaHZtzJU4fKijMDOg-41" target="XnWyaHZtzJU4fKijMDOg-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
