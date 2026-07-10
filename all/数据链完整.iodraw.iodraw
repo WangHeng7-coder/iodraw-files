@@ -7,7 +7,7 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="接收端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1040" y="-280" width="530" height="1300" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-119" value="信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-119" value="信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="799" y="-280" width="251" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-116" value="发送端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;fontStyle=1" parent="1" vertex="1">
