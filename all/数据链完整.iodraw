@@ -40,7 +40,7 @@
           <mxGeometry x="360" y="492" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-50" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="200" y="420" width="150" height="80" as="geometry" />
+          <mxGeometry x="200" y="490" width="150" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-51" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="190" y="682" width="253.75" height="80" as="geometry" />
