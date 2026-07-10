@@ -36,7 +36,7 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XnWyaHZtzJU4fKijMDOg-49" target="XnWyaHZtzJU4fKijMDOg-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-49" value="高清目标&#xa;通道" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-49" value="高清目标&#xa;通道" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="360" y="492" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-50" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" parent="1" vertex="1">
@@ -84,7 +84,7 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XnWyaHZtzJU4fKijMDOg-99" target="XnWyaHZtzJU4fKijMDOg-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-99" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-99" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="160" y="-150" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-100" value="分类检测/单目标/多目标跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
