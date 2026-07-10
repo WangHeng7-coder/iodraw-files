@@ -96,9 +96,6 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-99" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="161" y="-150" width="339" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YKIoO4m59bYCjiOHA-GD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-100" target="YKIoO4m59bYCjiOHA-GD-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-100" value="分类检测/单目标/多目标跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="158" y="110" width="342" height="80" as="geometry" />
         </mxCell>
@@ -148,9 +145,6 @@
               <mxPoint x="660" y="150" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YKIoO4m59bYCjiOHA-GD-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=25;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="280" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
