@@ -24,7 +24,7 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-36" value="自适应编码推流" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=30;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="160" y="642" width="570" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-37" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=right;fontSize=30;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-37" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=right;fontSize=30;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="352" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XnWyaHZtzJU4fKijMDOg-41" target="XnWyaHZtzJU4fKijMDOg-100" edge="1">
@@ -42,16 +42,16 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-50" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="490" width="150" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-51" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-51" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="682" width="253.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-58" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-58" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="460" y="682" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-59" value="中度弱网:&#xa;高清目标图像传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="190" y="772" width="253.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-60" value="重度弱网:&#xa;报文传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-60" value="重度弱网:&#xa;报文传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="460" y="772" width="253.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.202;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XnWyaHZtzJU4fKijMDOg-50" target="XnWyaHZtzJU4fKijMDOg-36" edge="1">
