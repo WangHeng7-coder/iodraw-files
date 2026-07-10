@@ -138,6 +138,9 @@
         <mxCell id="YKIoO4m59bYCjiOHA-GD-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
           <mxGeometry x="660" y="440" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YKIoO4m59bYCjiOHA-GD-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
