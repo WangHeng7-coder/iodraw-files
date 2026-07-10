@@ -42,10 +42,10 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-50" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="490" width="150" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-51" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-51" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="190" y="682" width="253.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-58" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-58" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="460" y="682" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-59" value="中度弱网:&#xa;高清目标图像传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
